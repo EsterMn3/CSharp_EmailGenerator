@@ -1,0 +1,14 @@
+C:\Users\hp\C#projects\EmailGenerator\bin\Debug\net8.0\EmailGenerator.exe
+C:\Users\hp\C#projects\EmailGenerator\bin\Debug\net8.0\EmailGenerator.deps.json
+C:\Users\hp\C#projects\EmailGenerator\bin\Debug\net8.0\EmailGenerator.runtimeconfig.json
+C:\Users\hp\C#projects\EmailGenerator\bin\Debug\net8.0\EmailGenerator.dll
+C:\Users\hp\C#projects\EmailGenerator\bin\Debug\net8.0\EmailGenerator.pdb
+C:\Users\hp\C#projects\EmailGenerator\obj\Debug\net8.0\EmailGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\C#projects\EmailGenerator\obj\Debug\net8.0\EmailGenerator.AssemblyInfoInputs.cache
+C:\Users\hp\C#projects\EmailGenerator\obj\Debug\net8.0\EmailGenerator.AssemblyInfo.cs
+C:\Users\hp\C#projects\EmailGenerator\obj\Debug\net8.0\EmailGenerator.csproj.CoreCompileInputs.cache
+C:\Users\hp\C#projects\EmailGenerator\obj\Debug\net8.0\EmailGenerator.dll
+C:\Users\hp\C#projects\EmailGenerator\obj\Debug\net8.0\refint\EmailGenerator.dll
+C:\Users\hp\C#projects\EmailGenerator\obj\Debug\net8.0\EmailGenerator.pdb
+C:\Users\hp\C#projects\EmailGenerator\obj\Debug\net8.0\EmailGenerator.genruntimeconfig.cache
+C:\Users\hp\C#projects\EmailGenerator\obj\Debug\net8.0\ref\EmailGenerator.dll
